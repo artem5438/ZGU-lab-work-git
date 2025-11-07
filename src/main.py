@@ -1,4 +1,4 @@
-print("Hello, World!")
+print("Привет, Мир!")
 
 def add_numbers(a, b):
 """Функция для сложения двух чисел"""
