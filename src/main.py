@@ -1,4 +1,4 @@
-print("Hello, World! This is feature-2 version")
+print("Привет, Мир это hotfix версия!")
 
 def add_numbers(a, b):
 """Функция для сложения двух чисел"""
